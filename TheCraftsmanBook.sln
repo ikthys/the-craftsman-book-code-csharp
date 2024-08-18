@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-OpeningDisaster", "01-OpeningDisaster\01-OpeningDisaster.csproj", "{B90760F6-2F12-4C0A-A47B-6714F4FCF3FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-GeneratePrimes", "01-GeneratePrimes", "{F1984BF3-6590-44B3-8D1B-55DC8D38F5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90760F6-2F12-4C0A-A47B-6714F4FCF3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90760F6-2F12-4C0A-A47B-6714F4FCF3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90760F6-2F12-4C0A-A47B-6714F4FCF3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90760F6-2F12-4C0A-A47B-6714F4FCF3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B90760F6-2F12-4C0A-A47B-6714F4FCF3FD} = {F1984BF3-6590-44B3-8D1B-55DC8D38F5DD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A7677E-E828-48FA-B6E5-514BD51891FE}
+	EndGlobalSection
+EndGlobal
